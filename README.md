@@ -1,1 +1,1 @@
-`https://cdn.jsdelivr.net/gh/coukayouxi/Notice@main/v.js`
+`https://cdn.jsdelivr.net/gh/coukayouxi/Notice@main/v.json`
