@@ -1,6 +1,6 @@
 {
-  "count":1,
   "notice":{
-    "测试公告":"test_notice.md"
+    "测试公告a":"test_notice.md",
+    "测试公告b":"test_notice.md"
   }
 }
