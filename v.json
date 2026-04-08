@@ -1,3 +1,6 @@
 {
-  "count":1
+  "count":1,
+  "notice":{
+    "测试公告":"test_notice.md"
+  }
 }
